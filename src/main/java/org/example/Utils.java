@@ -47,5 +47,8 @@ public class Utils extends BasePage {
         select.deselectByValue(text);
     }
 
+    public  void isAlertPresent(){
+        
+    }
 
 }
